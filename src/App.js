@@ -9,6 +9,7 @@ import Account from "./pages/Account";
 import ProtectedRoute from "./components/protectedroute/ProtectedRoute";
 
 const App = () => {
+  
   return (
     <div className="py-2">
       <AuthContextProvider>
